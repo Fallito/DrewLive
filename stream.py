@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from playwright.async_api import async_playwright, Request
 
-BASE_URL = "https://www.streameast.gd"
+BASE_URL = "https://www.streameast.es"
 M3U8_FILE = "StreamEast.m3u8"
 
 CATEGORY_LOGOS = {
